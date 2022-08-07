@@ -1,2 +1,2 @@
-# firstshot
-github usage practice
+# intern  projects and work record
+my first intern project& document collect
