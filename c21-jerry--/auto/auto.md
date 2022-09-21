@@ -1,4 +1,4 @@
-[system detailed map](https://git.page/jj/board?qname=jerry)
+
 
 ## auto structure
 
@@ -28,4 +28,5 @@
 * object type should  be follow as  JSON object type
 * ex:
 * ```{"place":"jerry.nb","pd": "123", "in":{"from":"jerry.ss", "to" :"auto"},"name":"jerry"}```
-
+* 
+![image](https://github.com/chen88088/firstshot/blob/main/c21-jerry--/auto/picture/smartscreen.png)
